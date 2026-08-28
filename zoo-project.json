@@ -1,0 +1,21 @@
+{
+  "zookeep-project-guid": "b4d68734-3f75-43b5-ae89-96509048c892",
+  "name": "lds-qoi-reverse-engeering",
+  "repo-type": "python-2026-03",
+  "license": "CC0-1.0",
+  "repository": {
+    "name": "lds-qoi-reverse-engeering",
+    "visibility": "public"
+  },
+  "python": {
+    "distribution": {
+      "name": "lds-qoi-reverse-engeering"
+    },
+    "import-packages": [
+      {
+        "name": "ldsqoirev",
+        "path": "src/ldsqoirev"
+      }
+    ]
+  }
+}
