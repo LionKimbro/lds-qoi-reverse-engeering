@@ -14,3 +14,6 @@ venv/
 .pycard/
 .zookeep/
 zookeeper-report.json
+
+# Private/copyrighted artwork fixtures and LDS derivatives. Never commit.
+/docs/research/artifacts/
